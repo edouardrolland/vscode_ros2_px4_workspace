@@ -2,7 +2,9 @@
 
 This template will assist you in setting up ROS2, PX4, and VSCode as your integrated development environment (IDE).
 
-The implementation of ROS2 and VSCode is based on the template provided in the [original GitHub Repository](https://github.com/athackst/vscode_ros2_workspace#readme). The following information provides details about the setup as well as how to use this template.
+The implementation of ROS2 and VSCode is based on the template provided in the [following GitHub Repository](https://github.com/athackst/vscode_ros2_workspace#readme).
+
+
 
 
 
