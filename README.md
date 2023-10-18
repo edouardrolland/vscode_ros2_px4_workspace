@@ -1,4 +1,4 @@
-# VSCode ROS2 Workspace Template
+# VSCode ROS2 - PX4 - Docker Dev Environment
 
 This template will get you set up using ROS2 with VSCode as your IDE.
 
