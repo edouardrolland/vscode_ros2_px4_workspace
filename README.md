@@ -1,5 +1,13 @@
 # VSCode ROS2 - PX4 - Docker Dev Environment
 
+This template will assist you in setting up ROS2, PX4, and VSCode as your integrated development environment (IDE).
+
+The implementation of ROS2 and VSCode is based on the template provided in the [original GitHub Repository](https://github.com/athackst/vscode_ros2_workspace#readme). The following information provides details about the setup as well as how to use this template.
+
+
+
+It is based on the template provided by 
+
 This template will get you set up using ROS2 with VSCode as your IDE.
 
 See [how I develop with vscode and ros2](https://www.allisonthackston.com/articles/vscode_docker_ros2.html) for a more in-depth look on how to use this workspace.
