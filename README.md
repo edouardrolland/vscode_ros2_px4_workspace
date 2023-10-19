@@ -44,27 +44,27 @@ Before using this template, make sure you have the following prerequisites insta
 
 #### Step 1: Get the Template
 
-![Step 1](asset\1.png)
+![Step 1](https://github.com/edouard98/vscode_ros2_px4_workspace/blob/humble/asset/1.png)
 
 #### Step 2: Create Your Own Project Repository
 
-![Step 2](asset\2.png)
+![Step 2](https://github.com/edouard98/vscode_ros2_px4_workspace/blob/humble/asset/2.png)
 
 #### Step 3: Clone the Project to Your Computer
 
-![Step 3](asset\3.png)
+![Step 3](https://github.com/edouard98/vscode_ros2_px4_workspace/blob/humble/asset/3.png)
 
 #### Step 4: Open the Folder in VSCode
 
 To interact with the container, you need to install the Docker extension in VSCode. Follow the steps below:
 
-![Step 4](asset\4.png)
+![Step 4](https://github.com/edouard98/vscode_ros2_px4_workspace/blob/humble/asset/4.png)
 
 #### Step 5: Build the Container
 
 You can build the container for the first time by following the steps presented in the following picture.
 
-![Step 5](asset\5.png)
+![Step 5](https://github.com/edouard98/vscode_ros2_px4_workspace/blob/humble/asset/5.png)
 
 Please note that if you're on Windows, ensure that Docker Engine is running in the background. The initial build may take some time.
 
@@ -80,7 +80,7 @@ make px4_sitl gz_x500
 
 This set of commands should open a Gazebo Tab display a drone as presented in the following figure. If the command is not displaying a tab, you should refer to the FAQ section of this readme to set up a X server. 
 
-![Step 6](asset\6.png)
+![Step 6](https://github.com/edouard98/vscode_ros2_px4_workspace/blob/humble/asset/6.png)
 
 ## FAQ
 
