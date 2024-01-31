@@ -1,11 +1,11 @@
-# VSCode ROS2 PX4 Docker Dev Environment
-
+# ROS2 & PX4 VSCode Dev Envirnment  
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Build Status](https://github.com/edouardrolland/vscode_ros2_px4_workspace/actions/workflows/ros.yaml/badge.svg)](https://github.com/edouardrolland/vscode_ros2_px4_workspace/actions/workflows/ros.yaml)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 
-Table of Contents
------------------
+Welcome to our development environment template for ROS2, PX4, and Gazebo. This Docker-based setup enables seamless integration of ROS2, PX4, and Gazebo with VSCode, providing a robust environment for developing drone applications.
+
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Acknowledgment](#acknowledgment)
@@ -15,9 +15,6 @@ Table of Contents
   - [Getting Started](#getting-started)
 - [License](#license)
 
-## Introduction
-
-Welcome to our development environment template for ROS2, PX4, and Gazebo. This Docker-based setup enables seamless integration of ROS2, PX4, and Gazebo with VSCode, providing a robust environment for developing drone applications.
 
 ## Acknowledgment
 
