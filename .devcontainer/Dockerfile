@@ -19,5 +19,4 @@ ARG WORKSPACE
 RUN echo "if [ -f ${WORKSPACE}/install/setup.bash ]; then source ${WORKSPACE}/install/setup.bash; fi" >> /home/ros/.bashrc
 RUN echo "source /home/ros/ws_sensor_combined/install/setup.bash" >> /home/ros/.bashrc
 
-ARG USERNAME
-RUN /bin/bash -c "sudo chown -R ${USERNAME}:${USERNAME} /home/${USERNAME}/PX4-Autopilot"
+RUN /bin/bash -c "sudo chown -R $USER:$USER /home/$USER/PX4-Autopilot"
